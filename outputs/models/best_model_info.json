@@ -1,0 +1,6 @@
+{
+  "model_name": "resnet50",
+  "threshold": 0.8900000000000002,
+  "val_roc_auc": 0.9952830188679245,
+  "checkpoint": "C:\\Users\\Nizamuddin2004\\OneDrive\\Desktop\\ML_DL_project\\outputs\\models\\resnet50_best.pth"
+}
