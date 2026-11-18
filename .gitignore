@@ -1,0 +1,28 @@
+# Dataset (too large for GitHub)
+data/
+
+# Trained model weights (too large)
+outputs/models/*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Temp
+*.tmp
+*.log
